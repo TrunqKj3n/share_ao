@@ -1,5 +1,4 @@
 var axios = require("axios");
-var prompt = require("prompt-sync")()
 var config = require("./config")
 require("colors")
 var headers = {
