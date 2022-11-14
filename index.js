@@ -49,7 +49,7 @@ class Share {
             }).catch(err =>{
                 console.log("[ ERROR ]:".brightWhite + "Bị block tính năng!".brightRed)
             })
-        }, 500)
+        }, 1000)
     }
 }
 
